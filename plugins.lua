@@ -377,6 +377,9 @@ local plugins = {
         },
       })
     end,
+  },
+  {
+    "williamboman/mason-lspconfig.nvim"
   }
 }
 return plugins

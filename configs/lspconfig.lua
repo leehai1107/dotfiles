@@ -21,3 +21,4 @@ lspconfig.gopls.setup {
     },
   },
 }
+
